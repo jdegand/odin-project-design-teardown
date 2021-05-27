@@ -5,4 +5,6 @@ Odin Project HTML/CSS - Design Teardown exercise
 
 [Smashing Magazine](https://www.smashingmagazine.com)
 
+[Live Link](https://jdegand.github.io/odin-project-design-teardown/)
+
 ![Screenshot](screenshot.png)
